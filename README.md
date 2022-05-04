@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a student at St. Lawrence University in Canton, NY currently persuing a major in statistics with a minor in film studies and Sports/Exercise Science. At St. Lawrernce I am a member of the Men's Tennis Team and apart of a living and learning themme community on campus.
 
-In my freetime I like to socialize with friends, watch movies, root on the Red Sox, and watch the Celtics loose.
+In my freetime I like to socialize with friends, watch movies, and cheer for the Celtics.
 
 
 <!--
