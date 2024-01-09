@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am a student at St. Lawrence University in Canton, NY currently persuing a major in data science with a minor in film & representation studies. At St. Lawrernce I am a member of the Men's Tennis Team and apart of a living and learning theme community on campus.
-
-In my freetime I like to play backgammon, watch movies, and cheer for the Celtics.
+I am a recent graduate with a degree in Data Science from St. Lawrence University, where I also played on the men's tennis team. I am currently most interested in data storytelling and visualization. In my free time, I enjoy playing backgammon, hiking, and cheering on the Celtics. Feel free to explore, and don't hesitate to reach out!
 
 
 <!--
