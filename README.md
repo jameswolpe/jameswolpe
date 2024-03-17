@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 I am a recent graduate with a degree in Data Science from St. Lawrence University, where I also played on the men's tennis team. I am currently most interested in data storytelling and visualization. In my free time, I enjoy playing backgammon, hiking, and cheering on the Celtics. Feel free to explore, and don't hesitate to reach out!
 
